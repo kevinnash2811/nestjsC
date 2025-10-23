@@ -1,0 +1,1 @@
+export * from './producer_rabbit.interface'

@@ -1,0 +1,1 @@
+export * from './hanrt_planificador_hana_relaciones.entity'
